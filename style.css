@@ -1,7 +1,14 @@
 .navbar-collapse{
-    margin-left: 45vh;
+    margin-left: 30vh;
 }
 
 .form-control{
-    margin-left: 45vh;
+    margin-left: 25vh;
+    border-radius: 25px;
+}
+
+.carousel-caption{
+    text-align: center;
+    margin-bottom: 20vh;
+
 }
